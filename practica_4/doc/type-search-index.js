@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.eda2.practica4","l":"EDALandBaB"},{"p":"org.eda2.practica4","l":"EDALandBacktracking"},{"p":"org.eda2.practica4","l":"GrafoReader"},{"p":"org.eda2.practica4","l":"Graph"},{"p":"org.eda2.practica4","l":"Network"}];updateSearchResults();
